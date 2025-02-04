@@ -1,0 +1,13 @@
+a{
+    color:red;
+}
+a:hover{
+    color: green;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1+p{
+    font-weight: bold;
+}
