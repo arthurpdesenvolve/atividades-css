@@ -1,0 +1,23 @@
+
+h3{
+    color: yellow;
+    background-color: black;
+}
+h2{
+    color: yellow;
+    background-color: black;
+}
+a{
+    color: green;
+}
+p{
+    color: white;
+    background-color: black;
+}
+div{
+    background-color: black;
+}
+*{
+    padding: auto;
+    margin: auto;
+}
