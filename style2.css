@@ -14,10 +14,7 @@ p{
     color: white;
     background-color: black;
 }
-div{
+html{
+    color: white;
     background-color: black;
-}
-*{
-    padding: auto;
-    margin: auto;
 }
